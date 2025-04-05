@@ -7,6 +7,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.task2vsk2.R
+import com.example.task2vsk2.UserService
 
 class LoginActivity : AppCompatActivity() {
     private lateinit var usernameEditText: EditText

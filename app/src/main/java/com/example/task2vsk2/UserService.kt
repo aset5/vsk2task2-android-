@@ -1,3 +1,7 @@
+package com.example.task2vsk2
+
+import User
+
 object UserService {
     private val users = mutableListOf(
         User(1, "admin", "admin123", Role.ADMIN),
