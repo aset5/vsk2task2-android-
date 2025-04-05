@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023456004210",
+    "project_id": "task2vsk2",
+    "storage_bucket": "task2vsk2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023456004210:android:d62fff8a122611171e5aeb",
+        "android_client_info": {
+          "package_name": "com.example.task2vsk2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPN9a_XCuJXX48p48SUeVSUN7c6H2GLwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
