@@ -14,10 +14,15 @@
         <!-- Customize your theme here. -->
     </style>
 
-    <style name="Theme.Task2vsk2.NoActionBar">
+    <style name="Theme.MyApp" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">#D2691E</item>
+        <item name="android:windowBackground">#FFDEAD</item>
+        <!-- Кнопки -->
     </style>
+
+
 
     <style name="Theme.Task2vsk2.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 

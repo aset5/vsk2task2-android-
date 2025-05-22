@@ -4,9 +4,9 @@ import User
 
 object UserService {
     private val users = mutableListOf(
-        User(1, "admin", "admin123", Role.ADMIN),
-        User(2, "teacher1", "teach123", Role.TEACHER),
-        User(3, "student1", "stud123", Role.STUDENT)
+        User(1, "Ers", "qwerty", Role.ADMIN),
+        User(2, "Serik", "Serik1", Role.TEACHER),
+        User(3, "Damir", "Dami7", Role.STUDENT)
     )
 
     var currentUser: User? = null
